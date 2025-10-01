@@ -1,0 +1,78 @@
+# =======================================
+# OS Specific
+# =======================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# =======================================
+# Python
+# =======================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test & Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# =======================================
+# VS Code / PyCharm / Editors
+# =======================================
+.vscode/
+.history/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+.idea
+
+# =======================================
+# Logs & Temp
+# =======================================
+*.log
+*.out
+*.err
+*.pid
+*.seed
+*.bak
+*.tmp
+*.swp
+*.swo
